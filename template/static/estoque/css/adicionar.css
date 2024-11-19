@@ -11,7 +11,7 @@ body{
     display: flex;
     align-items: center;
     justify-content: center;
-    background-color: #86969d;
+    background-color: #347997;
     min-height: 100vh;
 } 
 
@@ -126,7 +126,7 @@ button:hover{
     left: -250px;
     width: 250px;
     height: 100%;
-    background-color: #23008b;
+    background-color: #006895;
     color: #fff;
     padding-top: 60px;
     transition: left 0.3s ease;
